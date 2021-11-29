@@ -68,7 +68,7 @@ Pygame is successfully installed as shown in the image above.
 
 [Anupam Verma](https://github.com/anupam215769)
 
-<a href="https://github.com/smaranjitghose/awesome-portfolio-websites/graphs/contributors">
+<a href="https://github.com/anupam215769/FlappyBird/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=anupam215769/FlappyBird" />
 </a>
 
