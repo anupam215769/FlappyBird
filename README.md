@@ -62,6 +62,10 @@ Pygame is successfully installed as shown in the image above.
 
 
 
+## Related Repositories 
+
+### [Snake Game](https://github.com/anupam215769/SnakeGame)
+
 ## Credit
 
 **Designed & Scripted By**
