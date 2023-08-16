@@ -66,14 +66,4 @@ Pygame is successfully installed as shown in the image above.
 
 ### [Snake Game](https://github.com/anupam215769/SnakeGame)
 
-## Credit
 
-**Designed & Scripted By**
-
-[Anupam Verma](https://github.com/anupam215769)
-
-<a href="https://github.com/anupam215769/FlappyBird/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=anupam215769/FlappyBird" />
-</a>
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anupam-verma-383855223/)
